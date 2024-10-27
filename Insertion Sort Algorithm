@@ -18,7 +18,7 @@ def insertion_sort(A):
     return A
 
 #Testing with an example below
-A = [8, 4, 5, 3, 13, 6, 4]
+A = [8, 4, 5, 3, 13, 6, 7]
 print("Original array:", A)
 sorted_A = insertion_sort(A)
 print("Sorted array:", sorted_A)
